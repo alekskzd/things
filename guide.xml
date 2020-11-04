@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Food Network FHD">
+    <display-name lang="pt">Food Network FHD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Globo RJ FHD">
+    <display-name lang="pt">Globo RJ FHD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Fox Sports FHD">
+    <display-name lang="pt">Fox Sports FHD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="GNT FHD">
+    <display-name lang="pt">GNT FHD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Megapix FHD">
+    <display-name lang="pt">Megapix FHD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+</tv>
